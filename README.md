@@ -1,4 +1,4 @@
-#Banking System with Generics (C# Console App)
+# Banking System with Generics (C# Console App)
 
 This project demonstrates the use of generics in C# through a simple banking system.
 
